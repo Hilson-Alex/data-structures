@@ -31,7 +31,7 @@ public class StaticList<T> implements DSList<T> {
         return index < 0 || index > size;
     }
 
-    //Implements ds_collection
+    //Implements DSList
 
     @Override
     public void remove(T element) {

@@ -41,7 +41,12 @@ public class Dictionary <K, T> {
      * function.
      */
     public Dictionary (){
-        this(new Hash<K>(), 10);
+        this.hash = new Function<K, Integer>() {
+            @Override
+            public Integer apply(K key) {
+                return Math.abs(key.hashCode() % 10);
+            }
+        };
     }
 
     /**
