@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8c1b92-eb90-4542-a706-92a963c25e78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="da8c1b92-eb90-4542-a706-92a963c25e78" name="Default Changelist" comment="Otimização da classe Dictionary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/document/project/java/dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/document/project/java/dictionary/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/document/project/java/dictionary/Hash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/document/project/java/ds_collection/list/StaticList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/document/project/java/ds_collection/list/StaticList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/document/project/java/ds_collection/list/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/document/project/java/ds_collection/list/DoubleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,7 @@
       <workItem from="1566256653623" duration="239000" />
       <workItem from="1567118362106" duration="2494000" />
       <workItem from="1567462546519" duration="38000" />
-      <workItem from="1580739624143" duration="3636000" />
+      <workItem from="1580739624143" duration="8243000" />
     </task>
     <servers />
   </component>
@@ -201,11 +198,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Otimização da classe Dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Otimização da classe Dictionary" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="511" y="146" width="888" height="821" key="CommitChangelistDialog2" timestamp="1580743784794">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="511" y="146" width="888" height="821" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1580743784794" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580744142412">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1580744142412" />
     <state x="723" y="472" width="474" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580743405962">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

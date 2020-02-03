@@ -5,26 +5,67 @@ import document.project.java.ds_collection.DSCollection;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * A dynamic data structure, implementation of {@link DSList}
+ * where an {@link Cell} have the address of the previous and
+ * the next {@link Cell} in the list.
+ *
+ * @param <T> The element type that will be stored.
+ *
+ * @author Hilson Alexandre Wojcikiewicz Junior.
+ */
 public class DoubleLinkedList<T> implements DSList<T> {
 
+    /**
+     * The first Cell of the list.
+     */
     private Cell start = null;
+
+    /**
+     * The last Cell of the list.
+     */
     private Cell end = null;
+
+    /**
+     * The number of elements in the list.
+     */
     private int size = 0;
 
     //constructors
 
+    /**
+     * Default constructor.
+     */
     public DoubleLinkedList (){}
 
+    /**
+     * A constructor that initializes a new list with the
+     * elements of a {@link DSCollection}.
+     *
+     * @param elements a collection that will be added.
+     */
     public DoubleLinkedList (DSCollection<? extends T> elements){
         this();
         addAll(elements);
     }
 
+    /**
+     * A constructor that initializes a new list with the
+     * elements of a {@link Collection}.
+     *
+     * @param elements a collection that will be added.
+     */
     public DoubleLinkedList (Collection<? extends T> elements){
         this();
         addAll(elements);
     }
 
+    /**
+     * A constructor that initializes a new list with the
+     * elements of an array or various elements.
+     *
+     * @param elements a collection that will be added.
+     */
     @SafeVarargs
     public DoubleLinkedList (T... elements){
         this();
@@ -33,6 +74,11 @@ public class DoubleLinkedList<T> implements DSList<T> {
 
     //public operations
 
+    /**
+     * copy a DoubleLinkedList.
+     *
+     * @return the copy of the list.
+     */
     @SuppressWarnings("unchecked")
     public DoubleLinkedList copy (){
         return new DoubleLinkedList(this.toArray().clone());
@@ -41,6 +87,9 @@ public class DoubleLinkedList<T> implements DSList<T> {
 
     //private operations
 
+    /**
+     * @return half of the size number.
+     */
     private int halfSize (){
         return size % 2 == 0 ? size/2 : size/2 + 1;
     }
