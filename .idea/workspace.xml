@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da8c1b92-eb90-4542-a706-92a963c25e78" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="list" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>strea</find>
+      <find>stream</find>
+      <find>get</find>
+      <find>copy</find>
+      <find>pop</find>
+      <find>toA</find>
+      <find>clear</find>
+      <find>size/2</find>
+      <find>stre</find>
+      <find>&lt;T&gt;</find>
+      <find>function</find>
+      <find>toS</find>
+      <find>toSt</find>
+      <find>hash</find>
+    </findStrings>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1390" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectId" id="1P1jSANA2iPloBJx4Cvj7rJq4he" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558574882664" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.heapSortTest">
+    <configuration name="DictionaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryTest" />
+      <module name="list" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTest" />
+      <module name="list" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="document.project.java.Main" />
+      <module name="list" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeTest" />
+      <module name="list" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heapSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heapSortTest" />
+      <module name="list" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.heapSortTest" />
+        <item itemvalue="Application.TreeTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DictionaryTest" />
+        <item itemvalue="Application.HashTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8c1b92-eb90-4542-a706-92a963c25e78" name="Default Changelist" comment="" />
+      <created>1553642431801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553642431801</updated>
+      <workItem from="1553642457045" duration="8183000" />
+      <workItem from="1554243402660" duration="11225000" />
+      <workItem from="1554848609745" duration="23190000" />
+      <workItem from="1555065793104" duration="2590000" />
+      <workItem from="1555211682056" duration="8245000" />
+      <workItem from="1555278941829" duration="6460000" />
+      <workItem from="1556667248843" duration="8200000" />
+      <workItem from="1557199503537" duration="22706000" />
+      <workItem from="1557454301323" duration="2849000" />
+      <workItem from="1557754810285" duration="6997000" />
+      <workItem from="1557873013074" duration="7010000" />
+      <workItem from="1558131626296" duration="591000" />
+      <workItem from="1558138701918" duration="16258000" />
+      <workItem from="1558457931130" duration="1410000" />
+      <workItem from="1558466906318" duration="9705000" />
+      <workItem from="1558631597326" duration="872000" />
+      <workItem from="1558738908363" duration="5295000" />
+      <workItem from="1558980215786" duration="2012000" />
+      <workItem from="1559687130908" duration="1035000" />
+      <workItem from="1559840409249" duration="1555000" />
+      <workItem from="1559990452903" duration="3504000" />
+      <workItem from="1560195363827" duration="6311000" />
+      <workItem from="1560302347720" duration="13574000" />
+      <workItem from="1560881793094" duration="31478000" />
+      <workItem from="1561757006684" duration="6438000" />
+      <workItem from="1561907896832" duration="4006000" />
+      <workItem from="1562079667077" duration="9260000" />
+      <workItem from="1565027904451" duration="6999000" />
+      <workItem from="1565044883724" duration="1484000" />
+      <workItem from="1565048566670" duration="2405000" />
+      <workItem from="1565974448047" duration="2277000" />
+      <workItem from="1566256653623" duration="239000" />
+      <workItem from="1567118362106" duration="2494000" />
+      <workItem from="1567462546519" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
