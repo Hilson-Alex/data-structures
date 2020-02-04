@@ -1,5 +1,5 @@
-# data-structures
-A collection of useful data structure
+# Data Structures
+A collection of useful data structures and how to make it in Java.
 
 ## Dictionary
 A hash based data structure like java [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html).
